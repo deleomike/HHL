@@ -3,3 +3,5 @@ qiskit-aer
 matplotlib
 pylatexenc
 jupyterlab
+numpy
+pip install git+https://github.com/anedumla/quantum_linear_solvers.git

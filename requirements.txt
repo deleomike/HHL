@@ -1,7 +1,8 @@
-qiskit
+qiskit==0.44.3
 qiskit-aer
 matplotlib
 pylatexenc
+scipy
 jupyterlab
 numpy
 git+https://github.com/anedumla/quantum_linear_solvers.git
